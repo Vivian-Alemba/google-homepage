@@ -1,0 +1,14 @@
+.height{
+    min-height: 100vh;
+    
+}
+.color{
+    background:white;
+}
+.search{
+    width: 60%;
+    border-radius: 14px;
+    height: 10%;
+    padding: 5px;
+}
+
